@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-# Draft V2 7-16-24
-# John Junkins Sr
 ## American Conservative Software Developer
 
 ## About Me
