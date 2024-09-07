@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **jajunk/jajunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## American Conservative Software Developer
 
 ## About Me
 US Combat veteran turned software developer, bringing military discipline to the tech world.
@@ -33,10 +31,6 @@ US Combat veteran turned software developer, bringing military discipline to the
 - Translate complex business needs into efficient, logical software applications
 - Bridge the gap between technical capabilities and business objectives
 
-### 🛡️ **Secure, On-Premise Solutions**
-- Develop robust, self-hosted applications to reduce reliance on big tech
-- Implement stringent data privacy measures to protect your digital assets
-
 ### **American-Made Software**
 - Create custom, patriotic tech solutions for conservative businesses and organizations
 - Ensure your software aligns with American values and interests
@@ -45,10 +39,12 @@ US Combat veteran turned software developer, bringing military discipline to the
 - Analyze your current tech stack and recommend optimizations
 - Develop roadmaps for digital transformation that respect conservative principles
 
-🔧 **Legacy System Modernization**
+### 🔧 **Legacy System Modernization**
 - Upgrade outdated systems without compromising data integrity
 - Seamlessly integrate new technologies with existing infrastructure
+
 ---
+
 ## Tech Landscape & My Solutions
 
 ### 🌐 **Big Tech Dominance**
@@ -67,19 +63,21 @@ US Combat veteran turned software developer, bringing military discipline to the
 *Challenge:* Foreign influence in technology threatens American interests.
 *My Solution:* Prioritize American-made software and infrastructure solutions.
 
-🤖 **AI and Automation Bias**
+### 🤖 **AI and Automation Bias**
 *Challenge:* AI systems often embed liberal biases in their algorithms.
 *My Solution:* Develop AI and automation tools with conservative values in mind.
 
-💼 **Small Business Tech Gap**
+### 💼 **Small Business Tech Gap**
 *Challenge:* Small conservative businesses struggle to access tailored tech solutions.
 *My Solution:* Provide affordable, scalable tech services specifically for conservative SMEs.
 
-🎯 **Cancel Culture Resilience**
+### 🎯 **Cancel Culture Resilience**
 *Challenge:* Conservative businesses risk losing critical tech services due to ideological differences.
 *My Solution:* Build resilient, independent tech stacks that cannot be easily "canceled" or deplatformed.
 
-### Featured Projects
+---
+
+# Featured Projects
 
 🏗️ **Digital Transformation Initiative**
 Led a comprehensive digital transformation for a mid-size company, including:
@@ -102,12 +100,14 @@ Implemented a self-hosted, encrypted communication system for a conservative org
 - Ensured compliance with data protection regulations
 Result: Provided a secure alternative to mainstream platforms, protecting sensitive communications.
 
-### **American-Made E-commerce Solution**
+**American-Made E-commerce Solution**
 Developed a custom e-commerce platform for a patriotic merchandise company:
 - Built using US-based hosting and payment processing
 - Implemented advanced fraud detection
 - Created a user-friendly interface optimized for conversion
 Result: 50% increase in online sales and improved customer trust.
+
+---
 
 ## Skills & Expertise
 
@@ -136,11 +136,6 @@ Result: 50% increase in online sales and improved customer trust.
 - E-commerce platforms
 - Content Management Systems (CMS)
 
-### 📱 **Mobile Solutions**
-- Cross-platform mobile app development
-- Progressive Web Applications (PWAs)
-- Mobile device management for businesses
-
 ### 🤖 **Automation & Efficiency**
 - Workflow automation tools
 - API development and integration
@@ -157,11 +152,12 @@ Result: 50% increase in online sales and improved customer trust.
 - American technology standards and best practices
 
 ## Contact
-- Email: john.doe@conservativedev.com
-- LinkedIn: [Your LinkedIn profile]
-- Twitter: @JohnDoeConservativeDev
+- [Website](junkdev.com)
+- [Blog](junkdev.com/blog)
+- [LinkedIn](https://www.linkedin.com/in/john-junkins-346b1b80/)
+- [Twitter](https://x.com/JohnJunkinsDev)
 
-## Articles
+## Articles (Coming Soon)
 - "The Conservative Case for On-Premise Software Solutions"
 - "Protecting Your Data from Big Tech: A Guide for Conservative Businesses"
 - "Why American-Made Software Matters"
@@ -174,7 +170,7 @@ Result: 50% increase in online sales and improved customer trust.
 
 Are you a conservative developer, IT professional, or tech enthusiast who believes in American values and digital sovereignty? Join our growing community on Discord!
 
-🔗 [Join the Patriot Tech Discord](your-discord-invite-link)
+🔗 [Join the Patriot Tech Discord](https://discordapp.com/channels/1281823628912230431/1281823629620809790)
 
 What you'll find:
 - 💼 Job opportunities and project collaborations
@@ -183,6 +179,6 @@ What you'll find:
 - 📚 Resources for continuous learning and skill development
 - 🤝 Support in building American-made software
 
-Let's work together to create innovative, secure, and patriotic tech solutions. Join us today and be part of the conservative tech revolution!
+*Let's work together to create innovative, secure, and patriotic tech solutions. Join us today and be part of the conservative tech revolution!*
 
 #PatriotTech #ConservativeDevelopers #AmericanMadeSoftware
